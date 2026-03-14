@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aditya Dhikale 👋
+Aspiring MERN Stack Developer | Passionate about building and deploying full-stack apps
 
-<!--
-**andand1510nd-sketch/andand1510nd-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- Languages: C, C++, Python, JavaScript
+- Frameworks: Node.js, Express, React
+- Database: MongoDB Atlas
+- Interests: Networking, Cybersecurity, SaaS concepts
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [MERN Blog App](link)
+- [Portfolio Website](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🌐 Connect
+[LinkedIn](your-link) | [Portfolio](your-link)
